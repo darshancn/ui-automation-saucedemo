@@ -1,0 +1,16 @@
+{
+  "name": "ui-automation-saucedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.48.2",
+    "axios": "^1.7.7"
+  }
+}
